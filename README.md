@@ -37,7 +37,7 @@ project phei/
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Projet_PHEI_Groupe7.git
+   git clone https://github.com/khalifahte34-dev/Projet_PHEI_Groupe7.git
    ```
 2. Ouvrir Anaconda et lancer Jupyter Notebook
 3. Naviguer vers le dossier du projet
